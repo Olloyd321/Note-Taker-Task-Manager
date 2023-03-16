@@ -19,7 +19,7 @@ This repo was created to for my Note Taker & Task Manager app
 To install dependencies run the following command: 
 
 ```
-npm i - npm i inquirer - npm i fs
+npm i - npm i inquirer - npm i express
 ```
 
 ## Usage 
