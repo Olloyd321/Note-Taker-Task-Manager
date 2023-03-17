@@ -7,9 +7,11 @@ This repo was created to for my Note Taker & Task Manager app
 
 ```
  *NOTES FOR SUBMISSION*
- This challenge was the most challenging assignment of this course and therefor I had trouble completing all of the criteria 
- This submission does not in any way represent a final product
- This will not be the only submission for this project 
+ I still have not recieved my student dev pack for heroku (even after multiple attempts to chase down an answer), 
+ I would have to pay out of pocket for heroku deployment, so I don't believe I should have points deducted if heroku deployment is a requirement. 
+ This challenge was the most challenging assignment of this course and therefor I had trouble completing all of the criteria.
+ This submission does not in any way represent a final product.
+ This will not be the only submission for this project.
 
 ```
 ## Table of Contents
