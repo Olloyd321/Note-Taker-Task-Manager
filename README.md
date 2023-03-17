@@ -9,7 +9,7 @@ This repo was created to for my Note Taker & Task Manager app
  *NOTES FOR SUBMISSION*
  I still have not recieved my student dev pack for heroku (even after multiple attempts to chase down an answer), 
  I would have to pay out of pocket for heroku deployment, so I don't believe I should have points deducted if heroku deployment is a requirement. 
-The walkthrough video can be found [here](href="https://user-images.githubusercontent.com/119633009/225796067-e5680c71-dcc8-4e65-bea3-32e72807aeb6.mp4")
+The walkthrough video can be found at https://user-images.githubusercontent.com/119633009/225796067-e5680c71-dcc8-4e65-bea3-32e72807aeb6.mp4
 
  This challenge was the most challenging assignment of this course and therefor I had trouble completing all of the criteria.
  This submission does not in any way represent a final product.
