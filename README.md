@@ -5,6 +5,13 @@
 
 This repo was created to for my Note Taker & Task Manager app
 
+```
+ *NOTES FOR SUBMISSION*
+ This challenge was the most challenging assignment of this course and therefor I had trouble completing all of the criteria 
+ This submission does not in any way represent a final product
+ This will not be the only submission for this project 
+
+```
 ## Table of Contents
 
 * [Installation](#installation) 
