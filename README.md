@@ -4,18 +4,12 @@
 ## Description 
 
 This repo was created to for my Note Taker & Task Manager app
+The video walkthrough can be found [here] (href="https://user-images.githubusercontent.com/119633009/225796355-aa644d75-ffdf-4036-8365-19e16ed54245.mp4")
 
 ```
  *NOTES FOR SUBMISSION*
  I still have not recieved my student dev pack for heroku (even after multiple attempts to chase down an answer), 
  I would have to pay out of pocket for heroku deployment, so I don't believe I should have points deducted if heroku deployment is a requirement. 
-
-
-
-https://user-images.githubusercontent.com/119633009/225796355-aa644d75-ffdf-4036-8365-19e16ed54245.mp4
-
-
-
  This challenge was the most challenging assignment of this course and therefor I had trouble completing all of the criteria.
  This submission does not in any way represent a final product.
  This will not be the only submission for this project.
