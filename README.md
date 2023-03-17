@@ -4,7 +4,7 @@
 ## Description 
 
 This repo was created to for my Note Taker & Task Manager app
-The video walkthrough can be found at https://user-images.githubusercontent.com/119633009/225796355-aa644d75-ffdf-4036-8365-19e16ed54245.mp4
+The video walkthrough can be found [here](https://user-images.githubusercontent.com/119633009/225796355-aa644d75-ffdf-4036-8365-19e16ed54245.mp4)
 
 ```
  *NOTES FOR SUBMISSION*
